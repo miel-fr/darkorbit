@@ -13,6 +13,10 @@ Good game!
 
 https://github.com/miel-fr/darkorbit/releases/latest
 
+##### Dependencies
+[.NET Framework 4.8.1](https://download.microsoft.com/download/4/b/2/cd00d4ed-ebdd-49ee-8a33-eabc3d1030e3/NDP481-Web.exe)
+
+
 ## Features
 |  |  |
 | - | - |
