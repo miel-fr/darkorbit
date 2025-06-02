@@ -2,52 +2,52 @@
 <doc>
 <assembly>
 <name>
-darkorbit-launcheur
+darkorbit-launcher
 </name>
 </assembly>
 <members>
-<member name="T:darkorbit_launcheur.My.Resources.Resources">
+<member name="T:darkorbit_launcher.My.Resources.Resources">
 <summary>
   Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
 </summary>
 </member>
-<member name="P:darkorbit_launcheur.My.Resources.Resources.ResourceManager">
+<member name="P:darkorbit_launcher.My.Resources.Resources.ResourceManager">
 <summary>
   Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
 </summary>
 </member>
-<member name="P:darkorbit_launcheur.My.Resources.Resources.Culture">
+<member name="P:darkorbit_launcher.My.Resources.Resources.Culture">
 <summary>
   Remplace la propriété CurrentUICulture du thread actuel pour toutes
   les recherches de ressources à l'aide de cette classe de ressource fortement typée.
 </summary>
 </member>
-<member name="P:darkorbit_launcheur.My.Resources.Resources.background">
+<member name="P:darkorbit_launcher.My.Resources.Resources.background">
 <summary>
   Recherche une ressource localisée de type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:darkorbit_launcheur.My.Resources.Resources.bg_button">
+<member name="P:darkorbit_launcher.My.Resources.Resources.bg_button">
 <summary>
   Recherche une ressource localisée de type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:darkorbit_launcheur.My.Resources.Resources.button">
+<member name="P:darkorbit_launcher.My.Resources.Resources.button">
 <summary>
   Recherche une ressource localisée de type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:darkorbit_launcheur.My.Resources.Resources.favicon">
+<member name="P:darkorbit_launcher.My.Resources.Resources.favicon">
 <summary>
   Recherche une ressource localisée de type System.Drawing.Icon semblable à (Icône).
 </summary>
 </member>
-<member name="P:darkorbit_launcheur.My.Resources.Resources.line">
+<member name="P:darkorbit_launcher.My.Resources.Resources.line">
 <summary>
   Recherche une ressource localisée de type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:darkorbit_launcheur.My.Resources.Resources.logo">
+<member name="P:darkorbit_launcher.My.Resources.Resources.logo">
 <summary>
   Recherche une ressource localisée de type System.Drawing.Bitmap.
 </summary>
