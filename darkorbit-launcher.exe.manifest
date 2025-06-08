@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Resources\favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="darkorbit-launcher" version="1.1.0.0" language="neutral" processorArchitecture="amd64" />
+    <assemblyIdentity name="darkorbit-launcher" version="1.2.0.0" language="neutral" processorArchitecture="amd64" />
     <commandLine file="darkorbit-launcher.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -44,13 +44,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="darkorbit-launcher.exe" size="1208800">
-      <assemblyIdentity name="darkorbit-launcher" version="1.1.0.0" language="neutral" processorArchitecture="amd64" />
+      <assemblyIdentity name="darkorbit-launcher" version="1.2.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>q2xFrvXXxEf+UgTabG2DiyPkhMcXbB/c0V8ufdUmkek=</dsig:DigestValue>
+        <dsig:DigestValue>IfOUVbtwW8FpCsHbxAUbyVIlQBxOOMfnOUtqkMWYMA4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
