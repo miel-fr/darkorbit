@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="darkorbit-launcher.exe" size="1207264">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="darkorbit-launcher.exe" size="1208800">
       <assemblyIdentity name="darkorbit-launcher" version="1.1.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YnL5CxtajxXzyBSpzsHGfwNKwQV1ax+bgcZf6nrQkmc=</dsig:DigestValue>
+        <dsig:DigestValue>q2xFrvXXxEf+UgTabG2DiyPkhMcXbB/c0V8ufdUmkek=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
