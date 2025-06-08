@@ -9,7 +9,7 @@ Good game!
 
 ## Download
 
-🔽 The latest release is always available [here](https://github.com/miel-fr/darkorbit/releases/download/darkorbit-client/darkorbit-launcher.exe):
+🔽 The latest release is always available [here](https://github.com/miel-fr/darkorbit/releases/download/darkorbit/darkorbit-launcher.exe):
 
 https://github.com/miel-fr/darkorbit/releases/latest
 
