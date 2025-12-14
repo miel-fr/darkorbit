@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="darkorbit-launcher.exe" version="1.3.0.0" publicKeyToken="0000000000000000" language="en" processorArchitecture="amd64" type="win32" />
-  <description asmv2:iconFile="Resources\favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <asmv1:assemblyIdentity name="darkorbit-launcher.exe" version="2.0.0.0" publicKeyToken="0000000000000000" language="en" processorArchitecture="amd64" type="win32" />
+  <description asmv2:iconFile="Resources\darkorbit_launcherV2.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="darkorbit-launcher" version="1.3.0.0" language="neutral" processorArchitecture="amd64" />
+    <assemblyIdentity name="darkorbit-launcher" version="2.0.0.0" language="neutral" processorArchitecture="amd64" />
     <commandLine file="darkorbit-launcher.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="darkorbit-launcher.exe" size="1207264">
-      <assemblyIdentity name="darkorbit-launcher" version="1.3.0.0" language="neutral" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="darkorbit-launcher.exe" size="5212640">
+      <assemblyIdentity name="darkorbit-launcher" version="2.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>D+sRaPJAwmGHaDPoj5MScf3q1yAHGavnKg55euWnJsM=</dsig:DigestValue>
+        <dsig:DigestValue>wZVl7vGRX8+U56W/WUcpEPlaynL1UgVXDmK0ePI824U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -63,13 +63,13 @@
       <dsig:DigestValue>87RtBnJBGsPz+CMe7HnKxYwSS39Us2mNINtPVHUA2nA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\favicon.ico" size="1406">
+  <file name="Resources\darkorbit_launcherV2.ico" size="210206">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>VYvEHJhUmx5HzuIBmpph6XxG3PYYSkYr6TBZCBXBhzY=</dsig:DigestValue>
+      <dsig:DigestValue>VWMLhQz7+KaN9QqHY2/AYMyBkHCxVX6HndqJDFrwSiM=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

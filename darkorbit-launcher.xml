@@ -27,12 +27,22 @@ darkorbit-launcher
   Recherche une ressource localisée de type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:darkorbit_launcher.My.Resources.Resources.bg_button">
+<member name="P:darkorbit_launcher.My.Resources.Resources.close">
 <summary>
   Recherche une ressource localisée de type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:darkorbit_launcher.My.Resources.Resources.button">
+<member name="P:darkorbit_launcher.My.Resources.Resources.darkorbit_launcherV2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:darkorbit_launcher.My.Resources.Resources.darkorbit_launcherV21">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Icon semblable à (Icône).
+</summary>
+</member>
+<member name="P:darkorbit_launcher.My.Resources.Resources.do_fb_ann_unity_main">
 <summary>
   Recherche une ressource localisée de type System.Drawing.Bitmap.
 </summary>
@@ -42,12 +52,27 @@ darkorbit-launcher
   Recherche une ressource localisée de type System.Drawing.Icon semblable à (Icône).
 </summary>
 </member>
-<member name="P:darkorbit_launcher.My.Resources.Resources.line">
+<member name="P:darkorbit_launcher.My.Resources.Resources.fontv2">
 <summary>
   Recherche une ressource localisée de type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:darkorbit_launcher.My.Resources.Resources.logo">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:darkorbit_launcher.My.Resources.Resources.menub">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:darkorbit_launcher.My.Resources.Resources.menub2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:darkorbit_launcher.My.Resources.Resources.minimize">
 <summary>
   Recherche une ressource localisée de type System.Drawing.Bitmap.
 </summary>
